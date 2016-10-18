@@ -1,0 +1,3 @@
+[submodule "rtmpdump-ksv-nicolive"]
+	path = rtmpdump-ksv-nicolive
+	url = https://github.com/ydixon/rtmpdump-ksv-nicolive
